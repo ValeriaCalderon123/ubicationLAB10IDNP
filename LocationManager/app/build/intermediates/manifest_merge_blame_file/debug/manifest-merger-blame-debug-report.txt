@@ -1,0 +1,95 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.locationmanager"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="21" />
+9-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:7:5-97
+11-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:7:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:8:5-96
+12-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:8:22-77
+13    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+13-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:9:5-97
+13-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:9:22-78
+14    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+14-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:10:5-96
+14-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:10:22-77
+15    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+15-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:10:5-96
+15-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:10:22-77
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:12:5-97
+16-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:12:22-78
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:13:5-95
+17-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:13:22-76
+18
+19    <application
+19-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:15:5-31:19
+20        android:allowBackup="true"
+20-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:16:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.7.0] C:\Users\valer\.gradle\caches\transforms-3\3287ed4cf8c32398866b0c1d2a55edb7\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:17:9-43
+25        android:label="@string/app_name"
+25-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:18:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:19:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:20:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.LocationManager" >
+29-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:21:9-53
+30        <activity
+30-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:22:9-30:20
+31            android:name="com.example.locationmanager.MainActivity"
+31-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:23:13-41
+32            android:exported="true" >
+32-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:24:13-36
+33            <intent-filter>
+33-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:25:13-29:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:26:17-69
+34-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:26:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:28:17-77
+36-->C:\Users\valer\Documents\GitHub\IDNP\ubicationLAB10IDNP\LocationManager\app\src\main\AndroidManifest.xml:28:27-74
+37            </intent-filter>
+38        </activity>
+39
+40        <provider
+40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\valer\.gradle\caches\transforms-3\8856134bcd7b8b49a046b976ebc002ff\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+41            android:name="androidx.startup.InitializationProvider"
+41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\valer\.gradle\caches\transforms-3\8856134bcd7b8b49a046b976ebc002ff\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+42            android:authorities="com.example.locationmanager.androidx-startup"
+42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\valer\.gradle\caches\transforms-3\8856134bcd7b8b49a046b976ebc002ff\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+43            android:exported="false" >
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\valer\.gradle\caches\transforms-3\8856134bcd7b8b49a046b976ebc002ff\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+44            <meta-data
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\valer\.gradle\caches\transforms-3\8856134bcd7b8b49a046b976ebc002ff\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+45                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\valer\.gradle\caches\transforms-3\8856134bcd7b8b49a046b976ebc002ff\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+46                android:value="androidx.startup" />
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\valer\.gradle\caches\transforms-3\8856134bcd7b8b49a046b976ebc002ff\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+47            <meta-data
+47-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\valer\.gradle\caches\transforms-3\c3dc026c86fcb2cf2e53d156d603f6f7\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+48                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+48-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\valer\.gradle\caches\transforms-3\c3dc026c86fcb2cf2e53d156d603f6f7\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+49                android:value="androidx.startup" />
+49-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\valer\.gradle\caches\transforms-3\c3dc026c86fcb2cf2e53d156d603f6f7\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+50        </provider>
+51    </application>
+52
+53</manifest>
