@@ -1,0 +1,2 @@
+com/example/locationmanager/BuildConfig.java
+ com.example.locationmanager.BuildConfig
