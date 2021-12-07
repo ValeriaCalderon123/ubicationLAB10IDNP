@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ADMIN CAR\\Documents\\GitHub\\ubicationLAB10IDNP\\LocationManager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "outputFile": "C:\\Users\\valer\\Documents\\GitHub\\IDNP\\ubicationLAB10IDNP\\LocationManager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADMIN CAR\\.gradle\\caches\\transforms-3\\31b55a8062b65968da623561f0f2f653\\transformed\\appcompat-1.4.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "C:\\Users\\valer\\.gradle\\caches\\transforms-3\\31b55a8062b65968da623561f0f2f653\\transformed\\appcompat-1.4.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

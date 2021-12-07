@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ADMIN CAR\\Documents\\GitHub\\ubicationLAB10IDNP\\LocationManager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+            "outputFile": "C:\\Users\\valer\\Documents\\GitHub\\IDNP\\ubicationLAB10IDNP\\LocationManager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADMIN CAR\\.gradle\\caches\\transforms-3\\5a3e51d9d3bf13afa5f76faada65dc67\\transformed\\material-1.4.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "source": "C:\\Users\\valer\\.gradle\\caches\\transforms-3\\5a3e51d9d3bf13afa5f76faada65dc67\\transformed\\material-1.4.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

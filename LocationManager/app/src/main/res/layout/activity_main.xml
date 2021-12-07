@@ -48,7 +48,7 @@
         android:backgroundTint="#18A8A7"
         android:text="Generar ruta" />
 
-    <EditText
+    <TextView
         android:id="@+id/editData"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
