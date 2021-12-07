@@ -72,7 +72,7 @@ class MainActivity : AppCompatActivity(), LocationListener {
             val array = ArrayList<String>()
             var latitudString = location.latitude
             var longitudeString= location.longitude
-         //   val coordenadas=latitudString+"-"+longitudeString
+            //   val coordenadas=latitudString+"-"+longitudeString
             for (i in 0..39) {
                 //equivale 100 metros en grados
                 latitudString = latitudString+0.0009
@@ -102,9 +102,9 @@ class MainActivity : AppCompatActivity(), LocationListener {
                 fileOutputStream = openFileOutput(fileName, Context.MODE_PRIVATE)
                 fileOutputStream.write(data.toByteArray())
             }
-           catch (e: FileNotFoundException){
-               e.printStackTrace()
-           }
+            catch (e: FileNotFoundException){
+                e.printStackTrace()
+            }
             catch (e: Exception){
                 e.printStackTrace()
             }
