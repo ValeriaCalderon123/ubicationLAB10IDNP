@@ -1,0 +1,2 @@
+com/example/fusedlocationproviderclient/BuildConfig.java
+ com.example.fusedlocationproviderclient.BuildConfig
